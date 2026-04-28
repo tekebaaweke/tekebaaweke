@@ -1,3 +1,8 @@
+<header>
+<p align="center">
+  <img src="profile.jpg" width="150" style="border-radius: 50%;" />
+</p>
+</header>
 <h1 align="center">Hi 👋, I'm Tekeba Aweke</h1>
 <h3 align="center">💻 Software Developer | 🤖 AI & Machine Learning Enthusiast</h3>
 

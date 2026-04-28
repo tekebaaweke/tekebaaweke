@@ -42,8 +42,8 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
+  <!-- //<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a> -->
+  <a href="mailto:tekebaaweke32@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://github.com/tekebaaweke"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
 </p>
 

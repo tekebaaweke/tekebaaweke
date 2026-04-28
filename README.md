@@ -1,6 +1,6 @@
 <header>
 <p align="center">
-  <img src="profile.jpg" width="150" style="border-radius: 50%;" />
+  <img src="" width="150" style="border-radius: 50%;" />
 </p>
 </header>
 <h1 align="center">Hi 👋, I'm Tekeba Aweke</h1>

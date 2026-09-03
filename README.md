@@ -39,8 +39,7 @@ GitHub Stats
  Top Languages
 <p align="center">
   <h1> My name Tekeba Aweke</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekebaaweke&layout=compact&theme=tokyonight" />
-</p>
+  </p>
 
 ---
 

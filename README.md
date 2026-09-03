@@ -24,7 +24,7 @@ for me
 
  Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,git,github,vscode,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---

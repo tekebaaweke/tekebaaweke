@@ -14,10 +14,10 @@
 
 for me
 - 🔭 I’m currently working on **AI & Machine Learning projects**
-- 🌱 I’m learning **Deep Learning & NLP**
+- 🌱 I’m learning **Deep Learning & NLP && web devopment**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, AI, Algorithms**
-- 📫 How to reach me: **your-email@gmail.com**
+- 💬 Ask me about **react , AI, Algorithms**
+- 📫 How to reach me: **tekebaaweke32@gmail.com**
 - ⚡ Fun fact: *I love solving problems and building smart systems*
 
 ---

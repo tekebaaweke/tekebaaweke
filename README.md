@@ -4,7 +4,7 @@
 </p>
 </header>
 <h1 align="center">Hi <strong> I'm Tekeba Aweke</strong></h1>
-<h3 align="center">💻 web  Developer | 🤖 AI & Machine Learning Enthusiast</h3>
+<h3 align="center">💻 web  Developer |AI & Machine Learning </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+NLP;Always+Learning+New+Things" />
@@ -37,6 +37,10 @@ GitHub Stats
 
 ---
  Top Languages
+ <div>
+   <h1>amharic</h1>
+   <h2>english</h2>
+   <div/>
 <p align="center">
   <h1> My name Tekeba Aweke</h1>
   </p>

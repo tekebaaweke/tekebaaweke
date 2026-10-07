@@ -42,7 +42,7 @@ GitHub Stats
    <h2>english</h2>
    <div/>
 <p align="center">
-  <h1> My name Tekeba Aweke</h1>
+  <h1> My name IS Tekeba Aweke</h1>
   </p>
 
  Quote of the Day
